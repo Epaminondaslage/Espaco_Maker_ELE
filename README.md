@@ -1,4 +1,4 @@
-# Espaço Maker Eletotécnica-CEFET-MG
+# Espaço Maker Eletrotécnica-CEFET-MG
 
 # O Espaço Maker do curso de Eletrotécnica do CEFETMG
 
